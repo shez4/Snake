@@ -1,4 +1,8 @@
-﻿using System.Text;
+// Game inspired by the tutorial from OttoBotCode - Programming a Snake Game in C# - Full Guide
+// https://www.youtube.com/watch?v=uzAXxFBbVoE
+
+
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
